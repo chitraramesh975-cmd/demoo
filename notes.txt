@@ -1,2 +1,3 @@
-hey i am using Git
-I made certain changes in note.txt file and using commit i'm saving this 
+hey i am using Git I made certain changes in note.txt file and using commit i'm saving this
+for my concern
+
